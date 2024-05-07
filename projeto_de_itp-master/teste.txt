@@ -1,0 +1,20 @@
+image 601 601
+clear 255 255 255
+color 0 0 0
+circle 100 100 100
+fill 100 100
+color 0 0 0
+circle 200 200 100
+color 255 0 0
+fill 200 200
+color 0 0 0
+circle 300 300 100
+fill 300 300
+color 0 0 0
+circle 400 400 100
+color 255 0 0
+fill 400 400
+color 0 0 0
+circle 500 500 100
+fill 500 500
+save test.ppm
